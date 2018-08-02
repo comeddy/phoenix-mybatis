@@ -1,1 +1,1 @@
-# mybatis-sample
+# phoenix-mybatis-sample
