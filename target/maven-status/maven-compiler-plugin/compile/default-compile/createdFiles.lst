@@ -1,5 +1,0 @@
-com/lgd/hadoop/fdc/util/MyBatisSqlSessionFactory.class
-com/lgd/hadoop/fdc/services/FdcService.class
-com/lgd/hadoop/fdc/mappers/FdcMapper.class
-com/lgd/hadoop/fdc/domain/FdcTest.class
-com/lgd/hadoop/fdc/FdcMybatisTest.class
